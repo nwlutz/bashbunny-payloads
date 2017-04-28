@@ -1,0 +1,2 @@
+# Everything happens in install.sh
+ATTACKMODE SERIAL STORAGE
